@@ -7,3 +7,13 @@
   margin-right: 12.5%;
   max-width: 75%;
 }
+@media (max-width: 1400px) {
+  .custom-stack {
+    flex-direction: column-reverse;
+  }
+
+  .custom-stack .col-12 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
