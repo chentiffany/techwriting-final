@@ -2,3 +2,8 @@
   border-radius: 10px;
   overflow: hidden;
 }
+.meep {
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+  max-width: 75%;
+}
